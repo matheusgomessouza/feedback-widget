@@ -22,6 +22,8 @@
 
 Rode o front-end na pasta ( Run the frontend on the folder ) `/web` com ( with ) `npm run dev`
 
+Rode o back-end na pasta ( Run the frontend on the folder ) `/server` com ( with ) `npm run dev`
+
 ----------------------------------------------------------------------------------------------------------
 
 🧑🏾‍💻 **Autor / Author**
