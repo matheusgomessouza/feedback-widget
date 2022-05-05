@@ -10,6 +10,11 @@
 - [ReactJS](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [HeadlessUI](https://headlessui.dev/)
+- [Prisma](https://www.prisma.io/)
+- [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Jest](https://jestjs.io/)
 
 ----------------------------------------------------------------------------------------------------------
 
