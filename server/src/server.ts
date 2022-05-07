@@ -9,5 +9,5 @@ app.use(routes);
 app.use(cors());
 
 app.listen(3333, () => {
-  console.log('HTTP server running!');
-})
+	console.log('HTTP server running!');
+});

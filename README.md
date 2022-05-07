@@ -15,6 +15,8 @@
 - [Node.js](https://nodejs.org/en/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Jest](https://jestjs.io/)
+- [Expo](https://expo.dev/)
+- [Axios](https://axios-http.com/docs/intro)
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -23,6 +25,8 @@
 Rode o front-end na pasta ( Run the frontend on the folder ) `/web` com ( with ) `npm run dev`
 
 Rode o back-end na pasta ( Run the frontend on the folder ) `/server` com ( with ) `npm run dev`
+
+Rode o mobile na pasta ( Run the mobile on the folder ) `/mobile` com ( with ) `expo start`
 
 ----------------------------------------------------------------------------------------------------------
 
