@@ -1,7 +1,7 @@
 # Next Level Week - Feedback Widget 
 ![Bower](https://img.shields.io/bower/l/boot)
 
-![](cover.png)
+![](cover.svg)
 
 
 ⚙️ **Tecnologias utilizadas / Used Technologies**
